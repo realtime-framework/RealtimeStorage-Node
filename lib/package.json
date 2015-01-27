@@ -1,0 +1,30 @@
+{
+  "name": "realtime-storage",
+  "version": "1.0.25",
+  "description": "The Realtime Framework Cloud Storage client for Node.js",
+  "homepage": "http://storage.realtime.co/",
+  "keywords": [
+    "realtime",
+    "real-time",
+    "ibt",
+    "pubsub",
+    "publish",
+    "subscribe",
+    "messaging",
+    "cloud",
+    "storage",
+    "baas",
+    "mbaas"
+  ],
+  "author": {
+    "name": "Realtime.co",
+    "email": "support@realtime.co"
+  },
+  "dependencies": {
+    "ibtrealtimesjnode": ">= 2.1.8"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
